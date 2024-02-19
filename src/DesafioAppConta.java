@@ -4,9 +4,9 @@ public class DesafioAppConta {
 
     public static void main(String[] args) {
 
-        String nomeCliente = "Leo Apolinario";
+        String nomeCliente = " Alfredo Lopes";
         String tipoConta = "Conta corrente";
-        double saldoConta = 20.000;
+        double saldoConta = 20;
 
         System.out.println("******************************");
         System.out.println("\nNome do Cliente : " + nomeCliente);
